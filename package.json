@@ -1,0 +1,14 @@
+{
+  "name": "soren_le_bot",
+  "version": "1.0.0",
+  "description": "Le bot indispensable discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Medilien",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
